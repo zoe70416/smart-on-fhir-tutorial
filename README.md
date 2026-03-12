@@ -17,3 +17,7 @@ This is a clone of the launch.html above. This file was created for convenience 
 index.html
 
 This page will be invoked via redirect from the Authorization server at the conclusion of the SMART authorization workflow. When this page is invoked, your SMART app will have everything it needs to run and access the FHIR API.
+
+
+The SMART app will be available at: https://zoe70416.github.io/smart-on-fhir-tutorial/example-smart-app
+
