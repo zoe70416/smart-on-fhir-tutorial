@@ -35,3 +35,9 @@ The SMART app will be available at: https://zoe70416.github.io/smart-on-fhir-tut
 
 The fhir-client-[version].js library defines several more API’s that will come in handy while developing smart app. Read about them here. 
 https://docs.smarthealthit.org/client-js/
+
+
+## Instructions 
+1. Go to Cerner console https://code-console.cerner.com/console/apps
+2. Application setup using SMART ON FHIR 1
+3. 
